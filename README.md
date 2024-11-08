@@ -105,3 +105,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 - create cluster and database user for connecting, i use compass
 - create .env file in root folder, install `dotenv` require for .env file to work
 - 
+
+### create model for database
+- 
