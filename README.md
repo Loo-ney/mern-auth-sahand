@@ -98,4 +98,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 - create folder for backend/server side `api`
 - inside api `index.js` is the main entry for backend server 
 - install express
-- install nodemon and change in the package.json
+- ins 
+
+### connecting to database MONGODB
+- install mongoose for connecting to database
+- create cluster and database user for connecting, i use compass
+- create .env file in root folder, install `dotenv` require for .env file to work
+- 
