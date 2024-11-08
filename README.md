@@ -110,3 +110,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 ### create api route
+
+### install bcryptjs
+- for hashing password
