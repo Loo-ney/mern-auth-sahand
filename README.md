@@ -113,3 +113,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### install bcryptjs
 - for hashing password
+
+### creating middleware
+ - create folder utils 
+  - inside create custom errorHandler function
