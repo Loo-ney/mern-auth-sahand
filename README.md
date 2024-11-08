@@ -86,3 +86,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## create github repository
 - initialize `git init` the root folder for both backend and frontend repository
+
+### creating individual pages inside src folder About, home, signup in .jsx 
+
+### install `react-router-dom`
