@@ -90,3 +90,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### creating individual pages inside src folder About, home, signup in .jsx 
 
 ### install `react-router-dom`
+
+#### create components folder
+
+
+### create and run the server 
+- create folder for backend/server side `api`
+- inside api `index.js` is the main entry for backend server 
+- install express
+- install nodemon and change in the package.json
