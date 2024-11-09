@@ -117,3 +117,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### creating middleware
  - create folder utils 
   - inside create custom errorHandler function
+
+
+### complete signup ui
